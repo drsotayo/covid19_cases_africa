@@ -11,3 +11,5 @@ The exercise focusses on Africa and analyses the following using the dataset pro
 • Evaluate some descriptive statistics (e.g. Mean, Median)
 
 • Utilise pandas, matplotlib and plotly libraries for data analysis and visualisation 
+
+![image](https://user-images.githubusercontent.com/86897066/126869391-c4a52a19-8b03-4d67-ae13-3a7159063850.png)
