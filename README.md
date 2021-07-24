@@ -13,3 +13,5 @@ The exercise focusses on Africa and analyses the following using the dataset pro
 • Utilise pandas, matplotlib and plotly libraries for data analysis and visualisation 
 
 ![image](https://user-images.githubusercontent.com/86897066/126869391-c4a52a19-8b03-4d67-ae13-3a7159063850.png)
+
+![image](https://user-images.githubusercontent.com/86897066/126869410-b7b0e71c-abd4-46a5-af3a-197e971e9ed3.png)
