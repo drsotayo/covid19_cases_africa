@@ -1,6 +1,6 @@
 ### Data Analysis and Visualisation of Covid-19 Cases in Africa using Python 
 
-The exercise focusses on Africa and analyses the following using the dataset provided by the WHO:
+The exercise focusses on Africa and analyses the following using the dataset provided by the World Health Organization (WHO):
 
 • Rank the Covid-19 cases in Africa (i.e. most cases to least cases, top (3) and bottom (3) African countries)
 
